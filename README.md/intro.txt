@@ -1,0 +1,18 @@
+# File Encryption Project
+
+This is a beginner cybersecurity project made using Python.
+
+The project encrypts and decrypts text files using a simple Caesar Cipher method.
+
+## Features
+- File Encryption
+- File Decryption
+- Simple Python Code
+- Beginner Friendly
+
+## Tools Used
+- Python
+- VS Code
+
+## Author
+Your Name
